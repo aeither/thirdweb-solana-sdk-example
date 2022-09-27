@@ -1,4 +1,3 @@
-// import { ThirdwebSDK } from "@thirdweb-dev/sdk";
 import * as anchor from "@project-serum/anchor";
 import { PublicKey } from "@solana/web3.js";
 import { ThirdwebSDK } from "@thirdweb-dev/solana";
